@@ -8,7 +8,7 @@
 - 👨‍💻 I'm learning about Mern Stack.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: React-based open source produce a project.
+- 🥅 2021 Goals: React-based open source produce a project.
 - ⚡ Fun fact: I love playing games, playing guitar and taking pictures.
 
 
