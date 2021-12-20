@@ -50,3 +50,11 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/salihgenc
 [linkedin]: https://www.linkedin.com/in/salihgenc/
+
+<summary>:bulb: GitHub Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=salihgenchw&theme=tokyonight" >
+
+<br />
+
+<summary>:bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihgenchw&layout=&theme=tokyonight" >
