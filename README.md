@@ -5,10 +5,10 @@
 
 ## I'm a Jr. Frontend Developer
 
-- 👨‍💻 I'm learning about Mern Stack.
+- 👨‍💻 I'm learning about Vue and React.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: React-based open source produce a project.
+- 🥅 2022 Goals: React or Vue open source produce a project.
 - ⚡ Fun fact: I love playing games, playing guitar and taking pictures.
 
 
