@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=salihgenc.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://salihgenc.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/salihgenc_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=salihgenc_)
 
-## I'm a Jr. Frontend Developer
+## I'm a Frontend Developer
 
-- 👨‍💻 I'm learning about Vue and React.
+- 👨‍💻 I'm still learning about Vue, React and React Native.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: React or Vue open source produce a project.
+- 🥅 2023 Goals: React or Vue open source produce a project.
 - ⚡ Fun fact: I love playing games, playing guitar and taking pictures.
 
 
