@@ -8,7 +8,7 @@
 - 👨‍💻 I'm still learning about Vue, React and React Native.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: React&React Native or Vue open source produce a project.
+- 🥅 2024 Goals: React&React Native or Vue open source produce a project.
 - ⚡ Fun fact: I love playing games, playing guitar and taking pictures.
 
 
